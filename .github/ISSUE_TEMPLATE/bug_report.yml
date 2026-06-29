@@ -1,0 +1,56 @@
+name: Bug Report
+description: File a bug report
+type: Bug
+assignees:
+  - Classsic36
+body:
+  - type: checkboxes
+    id: pre-checks
+    attributes:
+      label: Before submitting
+      description: Please confirm the following before submitting your bug report.
+      options:
+        - label: I have checked [open issues](https://github.com/Classics-Craftworks/Extract-Enchants/issues) and the bug has not already been reported.
+          required: true
+        - label: I have checked [closed issues](https://github.com/Classics-Craftworks/Extract-Enchants/issues?q=is%3Aissue%20state%3Aclosed) and the bug has not already been fixed.
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what the bug is.
+      placeholder: "Example: Putting an Iron Sword enchanted with Sharpness II and a Book into a crafting slot doesn't return a Sharpness II Enchanted Book."
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Which version of Extract Enchants are you using? If it's not listed, please consider updating!
+      options:
+        - v0.1.0
+    validations:
+      required: true
+  - type: input
+    id: mcversion
+    attributes:
+      label: Minecraft Version
+      description: Which version of Minecraft are you using?
+      placeholder: If using on a non-vanilla server, please type /version and paste the output here. If using in a vanilla setting, please type the Minecraft version here instead.
+    validations:
+      required: true
+  - type: input
+    id: modloaderversion
+    attributes:
+      label: Mod Loader Version
+      description: If running as a mod, which mod loader (and Fabric API version, if running Fabric/Quilt) are you using?
+      placeholder: "Examples: 'Fabric Loader 0.19.3 with Fabric API 0.153.0 for Minecraft 26.2' or 'NeoForge 26.2.0.7'"
+    validations:
+      required: false
+  - type: input
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please upload any relevant logs to https://mclo.gs/ and paste the link here.
+    validations:
+      required: false
