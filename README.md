@@ -1,6 +1,6 @@
 # EXTRACT ENCHANTS
 
-A Minecraft data pack and mod for extracting enchantments from tools, weapons and armour into Enchanted Books via crafting, at the cost of destroying the original item.
+A Minecraft data pack and mod for extracting enchantments from tools, weapons and armour on to Enchanted Books via crafting, at the cost of destroying the original item.
 
 ## Downloads
 
@@ -17,8 +17,8 @@ Extract Enchants is only available on the platforms listed below. Please be awar
 
 ![image](https://i.postimg.cc/sgYHMP93/SCR-20260629-pzjh.png)
 
-> [!IMPORTANT]
-> Recipe accepts non-enchanted items and gives an Enchanted Book with no enchants due to limitation of Minecraft's current crafting system
+> [!NOTE]
+> Non-enchanted items are accepted by the crafting recipe, producing an empty Enchanted Book. This is a limitation of Minecraft’s current crafting system and the method this pack/mod uses.
 
 ## Versions
 
