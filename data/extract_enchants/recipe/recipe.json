@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "misc",
+  "group": "extraction",
+  "input": "#extract_enchants:enchantables",
+  "material": "minecraft:book",
+  "result": {
+    "id": "minecraft:enchanted_book"
+  }
+}
