@@ -1,0 +1,26 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="extract_enchants"
+version="0.2.0"
+displayName="Extract Enchants"
+logoFile="pack.png"
+displayURL="https://modrinth.com/datapack/extract-enchants"
+authors="Classic36"
+description="Extract enchantments from tools, weapons and armour on to Enchanted Books via crafting, at the cost of destroying the original item."
+
+[[dependencies.extract_enchants]]
+    modId="neoforge"
+    type="required"
+    versionRange="[26.2.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.extract_enchants]]
+    modId="minecraft"
+    type="required"
+    versionRange="[26.2,26.3)"
+    ordering="AFTER"
+    side="BOTH"

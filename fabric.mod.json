@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "extract_enchants",
+	"version": "0.2.0",
+	"name": "Extract Enchants",
+	"description": "Extract enchantments from tools, weapons and armour on to Enchanted Books via crafting, at the cost of destroying the original item.",
+	"authors": [
+		"Classic36"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/datapack/extract-enchants",
+		"sources": "https://github.com/Classics-Craftworks/Extract-Enchants",
+		"issues": "https://github.com/Classics-Craftworks/Extract-Enchants/issues"
+	},
+
+	"license": "MIT",
+	"icon": "pack.png",
+	"environment": "*",
+	"depends": {
+		"fabric-resource-loader-v1": "*",
+		"minecraft": ">=26.2 <26.3"
+  }
+}
