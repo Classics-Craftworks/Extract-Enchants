@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "tag": "minecraft:enchantable"
+                        "tag": "extract_enchants:enchantables"
                     }
                 ]
             }
@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "enchant_transmutation:swords"
+                "recipe": "extract_enchants:recipe"
             }
         }
     },
