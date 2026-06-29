@@ -28,6 +28,8 @@ body:
       label: Version
       description: Which version of Extract Enchants are you using? If it's not listed, please consider updating!
       options:
+        - v0.2.0
+        - v0.2.0+mod
         - v0.1.0
     validations:
       required: true
