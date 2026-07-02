@@ -1,10 +1,10 @@
 modLoader="lowcodefml"
-loaderVersion="[65,)"
+loaderVersion="[62,)"
 license="MIT"
 
 [[mods]]
 modId="extract_enchants"
-version="0.2.0"
+version="0.3.0"
 displayName="Extract Enchants"
 logoFile="pack.png"
 displayURL="https://modrinth.com/datapack/extract-enchants"
@@ -14,13 +14,13 @@ description="Extract enchantments from tools, weapons and armour on to Enchanted
 [[dependencies.extract_enchants]]
     modId="forge"
     mandatory=true
-    versionRange="[65,)"
+    versionRange="[62,)"
     ordering="AFTER"
     side="BOTH"
 
 [[dependencies.extract_enchants]]
     modId="minecraft"
     mandatory=true
-    versionRange="[26.2,26.3)"
+    versionRange="[26.1,26.3)"
     ordering="AFTER"
     side="BOTH"

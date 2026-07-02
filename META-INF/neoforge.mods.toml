@@ -14,13 +14,13 @@ description="Extract enchantments from tools, weapons and armour on to Enchanted
 [[dependencies.extract_enchants]]
     modId="neoforge"
     type="required"
-    versionRange="[26.2.0.0,)"
+    versionRange="[26.1.0.0,)"
     ordering="AFTER"
     side="BOTH"
 
 [[dependencies.extract_enchants]]
     modId="minecraft"
     type="required"
-    versionRange="[26.2,26.3)"
+    versionRange="[26.1,26.3)"
     ordering="AFTER"
     side="BOTH"

@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "extract_enchants",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"name": "Extract Enchants",
 	"description": "Extract enchantments from tools, weapons and armour on to Enchanted Books via crafting, at the cost of destroying the original item.",
 	"authors": [
@@ -18,6 +18,6 @@
 	"environment": "*",
 	"depends": {
 		"fabric-resource-loader-v1": "*",
-		"minecraft": ">=26.2 <26.3"
+		"minecraft": ">=26.1 <26.3"
   }
 }
