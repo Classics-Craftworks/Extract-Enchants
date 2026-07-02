@@ -9,6 +9,8 @@ Extract Enchants is only available on the platforms listed below. Please be awar
 [![](https://img.shields.io/modrinth/dt/XEmVrmQh?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/extract-enchants)
 [![](https://img.shields.io/spiget/downloads/136616?label=SpigotMC&style=for-the-badge&color=ED8106&logo=spigotmc)](https://www.spigotmc.org/resources/extract-enchants.136616)
 
+(Modrinth still pending review)
+
 ## Overview
 
 - Extracts enchantments from weapons, tools and armour and places them on to an Enchanted Book
