@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="extract_enchants"
-version="0.2.0"
+version="0.3.0"
 displayName="Extract Enchants"
 logoFile="pack.png"
 displayURL="https://modrinth.com/datapack/extract-enchants"

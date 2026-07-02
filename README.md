@@ -24,8 +24,7 @@ Extract Enchants is only available on the platforms listed below. Please be awar
 
 | Minecraft Version | Data Pack Version | Mod Version |
 | :--: | :--: | :--: |
-| 26.2 | [v0.2.0](https://modrinth.com/datapack/extract-enchants/version/v0.2.0) | [v0.2.0+mod](https://modrinth.com/datapack/extract-enchants/version/v0.2.0+mod) |
-| 26.1 - 26.1.2 | [v0.1.0](https://modrinth.com/datapack/extract-enchants/version/v0.1.0) | N/A |
+| 26.1 - 26.2 | [v0.3.0](https://modrinth.com/datapack/extract-enchants/version/v0.3.0) | [v0.3.0+mod](https://modrinth.com/datapack/extract-enchants/version/v0.3.0+mod) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/extract-enchants/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Extract-Enchants/wiki/Versions).
 
